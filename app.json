@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Queen_LARISSA",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://i.imgur.com/PsVfuw5.jpeg",
         "required": false
       },
   
@@ -35,17 +35,17 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://i.imgur.com/PsVfuw5.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Queen_Larissa"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Libreville"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "24160338758"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "Queen_Larissa",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "L A R I S S A❤️",
         "required": false
       }  
   },
