@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN gitclone https://github.com/papaigwe1234/QUEENLARISSA
+RUN gitclone https://github.com/Papaigwe1234/QUEENLARISSA
 
 
 COPY package.json .
